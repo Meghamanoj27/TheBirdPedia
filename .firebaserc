@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bird-pedia-645c3": {
+      "hosting": {
+        "mini": [
+          "bird-pedia-645c3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bird-pedia-645c3"
+  }
+}
